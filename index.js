@@ -1,3 +1,8 @@
+/******************************
+ * Made By freduuuk#0418
+ * Made for Temory Bot Development
+ * Please Mention us and freduuuk#0418 ALWAYS by using this Code!
+ ******************************/
 const Discord = require ('discord.js')
 const client = new Discord.Client()
 const dbs = require('discord-buttons');
@@ -1074,3 +1079,10 @@ client.login(token)
 function escapeRegex(str) {
     return str.replace(/[.*+?^${}()|[\]\\]/g, `\\$&`);
 }
+
+
+/******************************
+ * Made By freduuuk#0418
+ * Made for Temory Bot Development
+ * Please Mention us and freduuuk#0418 ALWAYS by using this Code!
+ ******************************/
